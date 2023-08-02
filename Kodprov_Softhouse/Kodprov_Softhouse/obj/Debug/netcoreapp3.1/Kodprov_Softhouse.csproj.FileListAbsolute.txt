@@ -1,0 +1,13 @@
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\bin\Debug\netcoreapp3.1\Kodprov_Softhouse.exe
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\bin\Debug\netcoreapp3.1\Kodprov_Softhouse.deps.json
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\bin\Debug\netcoreapp3.1\Kodprov_Softhouse.runtimeconfig.json
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\bin\Debug\netcoreapp3.1\Kodprov_Softhouse.runtimeconfig.dev.json
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\bin\Debug\netcoreapp3.1\Kodprov_Softhouse.dll
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\bin\Debug\netcoreapp3.1\Kodprov_Softhouse.pdb
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\obj\Debug\netcoreapp3.1\Kodprov_Softhouse.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\obj\Debug\netcoreapp3.1\Kodprov_Softhouse.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\obj\Debug\netcoreapp3.1\Kodprov_Softhouse.AssemblyInfo.cs
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\obj\Debug\netcoreapp3.1\Kodprov_Softhouse.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\obj\Debug\netcoreapp3.1\Kodprov_Softhouse.dll
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\obj\Debug\netcoreapp3.1\Kodprov_Softhouse.pdb
+C:\Users\Max\source\repos\Kodprov_Softhouse\Kodprov_Softhouse\obj\Debug\netcoreapp3.1\Kodprov_Softhouse.genruntimeconfig.cache
